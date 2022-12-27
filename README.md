@@ -1,33 +1,14 @@
-# sherrelyn chavez (BSIT 3-4) chat-app!
+Grafil Ian Carl G. BSIT 3-4
+![Screenshot (21)](https://user-images.githubusercontent.com/102000317/209657517-9e46dfdf-e6a8-4ed4-8977-5cd2bbb5588f.png)
 
-Here's what it looks like: 
+![Screenshot (22)](https://user-images.githubusercontent.com/102000317/209657536-876651e3-859d-4789-97b0-4effce94c0a5.png)
 
-![Screenshot (134)](https://user-images.githubusercontent.com/92195916/209090589-98b65a98-fadd-4a6c-902a-8a1eef2eed56.png)
-
-![Screenshot (135)](https://user-images.githubusercontent.com/92195916/209090638-a5f2cf6e-ffc0-4daf-99bf-e701642b68a1.png)
-
-
-HOW TO RUN THE CODE:
-
+How to Access the Chat App
 
 STEP 1: Open your vs code terminal (ctrl + j)
 
-STEP 2: Run the command "npm start"
+STEP 2: At the terminall, type "npm start"
   
-  : the following will be seen-
+STEP 3: Locate the port by typing on your browser "localhost:3000", Then you will see your code running :>
   
-  
-  > node-chat-app@1.0.0 start
-  
-  > node server/server.js    
 
-  Server is up on 3000
-  
-  
-  
-  
-STEP 3: Locate the port by typing on your browser "localhost:3000"
-  
-STEP 4: Then you will see your code running :>
-  
-STEP 5: IMPORTANT NOTE: Make sure to save your work for any changes you've make and refresh the browser otherwise, your code will get an error. Enjoy Coding! :>
