@@ -5,10 +5,19 @@ Grafil Ian Carl G. BSIT 3-4
 
 How to Access the Chat App
 
-STEP 1: Open your vs code terminal (ctrl + j)
+STEP 1: Download the ZIP file and then extract.
 
-STEP 2: At the terminall, type "npm start"
+STEP 2: Open your extracted folder at VS code. Type "npm start" in the terminal (ctrl + j).
   
 STEP 3: Locate the port by typing on your browser "localhost:3000", Then you will see your code running :>
+
+
+If error occured. Do this:
+
+1. Delete the package-lock.json and node_modules
+2. Reinstall this files by typing "npm i" on the terminal.
+3. After that, try typing "npm start"
+4. If the code gives you the localhost port, run it now in the browser typing "localhost: 3000"
+NOTE: Make sure that there is no existing port like this in the browser.
   
 
